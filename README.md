@@ -4,7 +4,7 @@
 
 **Building scalable, secure, resilient, and production-ready backend systems.**
 
-I'm a passionate **Senior Java Backend Engineer with 9+ years of IT experience**, specializing in designing, developing, optimizing, and maintaining enterprise-grade applications using **Java, Spring Boot, Microservices, Kafka, and AWS**.
+I'm a passionate **Senior Java Backend Engineer with 7 years of IT experience**, specializing in designing, developing, optimizing, and maintaining enterprise-grade applications using **Java, Spring Boot, Microservices, Kafka, and AWS**.
 
 My experience spans enterprise citizen-service platforms, B2B integration systems, distributed workflows, cloud-native architectures, and AI-powered backend services.
 
